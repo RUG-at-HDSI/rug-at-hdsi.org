@@ -1,0 +1,34 @@
+---
+layout: splash 
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Upcoming Meetings"
+      url: "/calendar"
+excerpt: "The Harvard R Users Group"
+intro: 
+  - excerpt: |
+     We are the Harvard RUG, a group who aims to organize meetups and guest lectures for the 
+     R community around Harvard University. Anyone is welcome to join, and feel
+     free to reach out to us if you have any questions. 
+feature_row:
+  - title: "Work in Progress"
+    excerpt: "We are currently still working on setting up this organization. If you'd like to help organize, reach out!"
+  - title: "Join our Slack"
+    excerpt: "Interested? Join our Slack at <http://harvardrug.slack.com/>"
+    url: "http://harvardrug.slack.com/"
+    btn_label: "Slack"
+    btn_class: "btn--info"
+  - title: "About Us"
+    excerpt: "Learn more about who we are and our code of conduct."
+    url: "/about"
+    btn_label: "About"
+    btn_class: "btn--info"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
