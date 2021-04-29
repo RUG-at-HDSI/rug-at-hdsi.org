@@ -3,9 +3,9 @@ layout: single
 title: "About Us"
 ---
 
-We are an R Users Group based at Harvard University who organize and host events 
-for the R community to promote learning, collaboration, and connecting with 
-others interested in R.
+We are an R User Group based at the Harvard Data Science Initiative who
+organize and host events for the R community to promote learning,
+collaboration, and connecting with others interested in R.
 
 # Who We Are
 
@@ -82,7 +82,6 @@ others interested in R.
 </div>
 </div>
 </center>
-
 
 {% include_relative code-of-conduct/README.md %}
 
