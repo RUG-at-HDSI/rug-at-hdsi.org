@@ -174,10 +174,10 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    -webkit-animation: $intro-transition;
-    animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-    animation-delay: 0.25s;
+    // -webkit-animation: $intro-transition;
+    // animation: $intro-transition;
+    // -webkit-animation-delay: 0.25s;
+    // animation-delay: 0.25s;
 
     a {
       color: #fff;
@@ -201,7 +201,7 @@ body {
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $large;
     }
 
     .page__title {
