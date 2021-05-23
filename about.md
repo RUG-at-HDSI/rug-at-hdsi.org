@@ -10,7 +10,7 @@ collaboration, and connecting with others interested in R.
 # Who We Are
 
 <center>
-<div class="row-80">
+<div class="">
 <div class='feature__wrapper' style='display: inline'>
 <div class='feature__item'>
 <div class='archive__item'>
@@ -19,7 +19,7 @@ collaboration, and connecting with others interested in R.
 <img 
   src="https://www.nzgwynn.com/images/portrait.jpg" 
   alt="Avatar" 
-  style="border-radius: 50%; max-width: 200px; max-height: 200px;"
+  style="border-radius: 50%; max-width: 175px; max-height: 175px;"
   >
 </a>
 </div>
@@ -29,7 +29,7 @@ collaboration, and connecting with others interested in R.
 <h3 class='archive__item-title'>gwynn sturdevant</h3>
 </a>
 <div class='archive__item-excerpt'>
-<p>hi I'm gwynn!</p>
+<p>Hi, I'm gwynn!</p>
 </div>
 </div>
 </div>
@@ -42,7 +42,7 @@ collaboration, and connecting with others interested in R.
 <img 
   src="https://static.wixstatic.com/media/29c8a8_b8b50062f51c4ab19f24eb34511a0de2~mv2.jpg/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01/SwartwoodHeadshot_JPG.webp" 
   alt="Avatar" 
-  style="border-radius: 50%; max-width: 200px; max-height: 200px;"
+  style="border-radius: 50%; max-width: 175px; max-height: 175px;"
   >
 </a>
 </div>
@@ -52,7 +52,7 @@ collaboration, and connecting with others interested in R.
 <h3 class='archive__item-title'>Nicole Swartwood</h3>
 </a>
 <div class='archive__item-excerpt'>
-<p>about nicole</p>
+<p>Hi, I'm Nicole!</p>
 </div>
 </div>
 </div>
@@ -74,7 +74,7 @@ collaboration, and connecting with others interested in R.
 <h3 class='archive__item-title'>Christian Testa</h3>
 </a>
 <div class='archive__item-excerpt'>
-<p>hi, i'm so-and-so</p>
+<p>Hi, I'm Christian!</p>
 </div>
 </div>
 </div>
