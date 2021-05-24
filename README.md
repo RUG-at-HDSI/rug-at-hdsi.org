@@ -1,4 +1,4 @@
-# R User Group Website at the Harvard Data Science Initiative
+# R User Group at the Harvard Data Science Initiative Website
 
 Check out our website -- [rug-at-hdsi.org](https://rug-at-hdsi.org)
 
