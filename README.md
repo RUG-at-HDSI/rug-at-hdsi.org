@@ -1,5 +1,9 @@
 # R User Group Website at the Harvard Data Science Initiative
 
+Check out our website -- [rug-at-hdsi.org](https://rug-at-hdsi.org)
+
+![Website screenshot (as of May 23 2021)](assets/images/website_screenshot.png)
+
 This is the code for the RUG at HDSI website. 
 
 The theme is based on [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
