@@ -10,5 +10,6 @@ The theme is based on [Minimal Mistakes](https://github.com/mmistakes/minimal-mi
 
 #### Development Notes
 
-Ensure that the `code-of-conduct/` directory is a clone of our [RUG-at-HDSI/code-of-conduct](https://github.com/RUG-at-HDSI/code-of-conduct/)
+Ensure that the `code-of-conduct/README.md` is an up-to-date copy of
+the README.md file from our [RUG-at-HDSI/code-of-conduct](https://github.com/RUG-at-HDSI/code-of-conduct/)
 repository.
