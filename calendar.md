@@ -5,7 +5,7 @@ title: "Meeting Calendar"
 
 ### Thursday June 10th 2021, 5 p.m. 
 
-Please join us for our first informal meeting! 
+Please join us for our first meeting! 
 
 <a href="https://raw.githubusercontent.com/RUG-at-HDSI/meeting_materials/master/2021_06_10/flyer.pdf">
 <img src="/assets/images/2021_06_10_flyer.png" />
