@@ -35,7 +35,7 @@ The RUG prioritizes marginalized people’s safety over privileged people’s co
 
 ## Reporting
 
-If you are being harassed by a member/guest/participant of/at the RUG, notice that someone else is being harassed, or have any other concerns, please contact the organization[FILL ME IN]. Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member/guest/participant of/at the RUG, notice that someone else is being harassed, or have any other concerns, please contact the organization at <datascience_rug@harvard.edu>. Local incidences will be handled together with the local organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to the RUG spaces, but if you are being harassed by a member/guest/participant of/at the RUG outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by the RUG members, especially the organization, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The organization reserves the right to exclude people from the RUG based on their past behavior, including behavior outside the RUG spaces and behavior towards people who are not in the RUG.
 
