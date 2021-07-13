@@ -64,7 +64,7 @@ collaboration, and connecting with others interested in R.
 <a href='https://ctesta.com/'>
 <img 
   style=''
-  src="https://ctesta.com/img/portrait.png" 
+  src="/assets/images/christian_portrait.jpeg" 
   alt="Avatar">
 </a>
 </div>
