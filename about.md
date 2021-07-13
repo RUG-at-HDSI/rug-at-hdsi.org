@@ -17,7 +17,7 @@ collaboration, and connecting with others interested in R.
 <div class='archive__item-teaser'>
 <a href="https://www.nzgwynn.com/">
 <img 
-  src="https://www.nzgwynn.com/images/portrait.jpg" 
+  src="/assets/images/gwynn_portrait.jpg" 
   alt="Avatar" 
   style="border-radius: 50%; max-width: 175px; max-height: 175px;"
   >
