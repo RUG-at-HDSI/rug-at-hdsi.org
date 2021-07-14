@@ -4,12 +4,14 @@ date: "July 14th, 2021"
 time: "3:30-5pm EDT"
 blurb: "Join us for an introductory session on using R and RStudio to analyze data and create data visualizations."
 layout: single
+poster_png: "/assets/images/2021_7_14_beginner_workshop.png"
+poster_pdf: "https://raw.githubusercontent.com/RUG-at-HDSI/meeting_materials/master/2021_07_14/Beginners%20workshop.pdf"
 ---
 
 #### July 14th, 2021 (3:30-5pm EDT)
 
-<a href='https://raw.githubusercontent.com/RUG-at-HDSI/meeting_materials/master/2021_07_14/Beginners%20workshop.pdf'>
-<img src="/assets/images/2021_7_14_beginner_workshop.png">
+<a href="{{ page.poster_pdf }}">
+<img src="{{ page.poster_png }}">
 </a>
 
 Join us for an introductory session on using R and RStudio to analyze data and create data visualizations.

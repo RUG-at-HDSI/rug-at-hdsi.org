@@ -11,6 +11,13 @@ title: ""
 {{ upcoming_event.time }} — {{ upcoming_event.title }}</a>
 </h5>
 
+<center>
+<a href="{{ upcoming_event.url }}.html">
+<img src="{{ upcoming_event.poster_png }}" width='50%'
+style="margin-top: 18px; margin-bottom: 18px;">
+</a>
+</center>
+
 <p> {{ upcoming_event.blurb }} </p>
 {% endfor %}
 <hr>
