@@ -83,6 +83,15 @@ collaboration, and connecting with others interested in R.
 </div>
 </center>
 
+# Reach Out to Us
+
+You can find us on social media in the following places: 
+
+  - Tweet at us <a href="https://twitter.com/RUGatHDSI">@RUGatHDSI</a> 
+  - Join on <a href="https://www.meetup.com/r-user-group-at-harvard-data-science-initiative">Meetup.com</a>
+  - Watch on <a href="https://www.youtube.com/channel/UC8bO8eVpfEK8LbqH0oxyc3Q">YouTube</a>
+
+
 {% include_relative code-of-conduct/README.md %}
 
 
