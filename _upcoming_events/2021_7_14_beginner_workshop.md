@@ -10,7 +10,7 @@ poster_pdf: "https://raw.githubusercontent.com/RUG-at-HDSI/meeting_materials/mas
 
 #### July 14th, 2021 (3:30-5pm EDT)
 
-<a href="{{ page.poster_pdf }}">
+<a href="{{ page.poster_pdf }}" alt="A poster for the BeginneRs Workshop containing with the date, time, and Zoom link for the event">
 <img src="{{ page.poster_png }}">
 </a>
 
