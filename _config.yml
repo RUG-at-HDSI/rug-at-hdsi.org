@@ -280,3 +280,14 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# collections
+collections:
+  past_events:
+    output: true
+    permalink: /:collection/:name
+  upcoming_events:
+    output: true
+    permalink: /:collection/:name
+
