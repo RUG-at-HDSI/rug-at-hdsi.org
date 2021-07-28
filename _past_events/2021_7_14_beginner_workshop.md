@@ -41,3 +41,11 @@ install.packages("wordcloud")
 install.packages("shiny")
 install.packages("rmarkdown")
 ~~~
+
+
+--- 
+
+You can view the recording of this event on YouTube here: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kuPnVZcot0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
