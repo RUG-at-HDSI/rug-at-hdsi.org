@@ -1,6 +1,6 @@
 ---
 title: "BeginneR's Workshop"
-date: "July 14th, 2021"
+event_date: 2021-7-14
 time: "3:30-5pm EDT"
 blurb: "Join us for an introductory session on using R and RStudio to analyze data and create data visualizations."
 layout: single

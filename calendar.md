@@ -7,7 +7,7 @@ title: ""
 
 {% for event in site.upcoming_events %}
 <h5>
-<a href="{{ event.url }}.html">{{ event.date | date_to_long_string }}, 
+<a href="{{ event.url }}.html">{{ event.event_date | date_to_long_string }}, 
 {{ event.time }} — {{ event.title }}</a>
 </h5>
 
@@ -24,11 +24,11 @@ style="margin-top: 18px; margin-bottom: 18px;">
 
 # Past Events
 
-{% assign sorted = site.past_events | sort: 'date' | reverse %}
+{% assign sorted = site.past_events | sort: 'event_date' | reverse %}
 {% for event in sorted %}
 <h5> 
 <a href="{{ event.url }}.html">
-{{ event.date | date_to_long_string }} — {{ event.title }} </a>
+{{ event.event_date | date_to_long_string }} — {{ event.title }} </a>
 </h5>
 <p> {{ event.blurb }} </p>
 {% endfor %}

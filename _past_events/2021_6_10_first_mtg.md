@@ -1,6 +1,6 @@
 ---
 title: "First Inaugural RUG Meeting"
-date: "June 10th, 2021"
+event_date: 2021-6-10 
 time: "5-6pm EDT"
 layout: single
 blurb: "In our first meeting we learned about who was attending through casual conversations and surveys and what people are looking for from our organization."

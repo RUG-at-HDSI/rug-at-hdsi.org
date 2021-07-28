@@ -1,6 +1,6 @@
 ---
 title: "TidyTuesday Lunch & Learn"
-date: "June 22nd, 2021"
+event_date: 2021-6-22
 time: "12-1pm EDT"
 layout: single
 blurb: |
