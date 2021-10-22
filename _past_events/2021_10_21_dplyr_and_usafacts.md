@@ -11,7 +11,7 @@ blurb: |
   transform existing ones, tidy data from a wide format to a long format (or vice versa), and more.
 ---
 
-#### Join us October 21st at 5PM Eastern Time for an introduction to {dplyr}!
+#### October 21st, 2021 at 5PM Eastern Time for an introduction to {dplyr}!
 
 <a href="{{ page.poster_png }}" alt="">
 <img src="{{ page.poster_png }}">
@@ -22,6 +22,9 @@ blurb: |
 Additionally, we've prepared a <a href="https://docs.google.com/document/d/1QvGshUWEAANS_sNfF78v6hNx-Q1xiI3pQSthxpIcHvo/edit#">
 problem set</a> that we will be going over the solutions to together. 
 
+View our recording from the talk! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s3mg6Zs01UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
