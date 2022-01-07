@@ -15,12 +15,9 @@ blurb: |
 
 #### Join us January 20th at 5PM Eastern Time!
 
-<!-- <a href="{{ page.poster_png }}" alt=""> -->
-<!-- <img src="{{ page.poster_png }}"> -->
-<!-- </a> -->
+<a href="{{ page.poster_png }}" alt="">
+<img src="{{ page.poster_png }}">
+</a>
 
 <p>{{ page.blurb }}</p>
-
-
-
 
