@@ -3,8 +3,8 @@ title: "Creating features for machine learning from text"
 event_date: "March 10, 2022"
 time: "5-6 PM ET"
 layout: single
-poster_png: ""
-poster_pdf: ""
+poster_png: "/assets/images/2022_03_10_julia_silge.png"
+poster_pdf: "/assets/images/2022_03_10_julia_silge.pdf"
 blurb: |
   Julia Silge is a software engineer at RStudio PBC where she works on open
   source modeling tools. She holds a PhD in astrophysics and has worked as a data
@@ -13,6 +13,7 @@ blurb: |
   international keynote speaker, and a real-world practitioner focusing on data
   analysis and machine learning. Julia loves text analysis, making beautiful
   charts, and communicating about technical topics with diverse audiences.
+
 
   Natural language that we as speakers and writers use must be dramatically
   transformed to new representations for analysis, whether we are just starting
