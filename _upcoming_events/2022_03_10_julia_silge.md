@@ -12,8 +12,7 @@ blurb: |
   committee member for the US Bureau of Labor Statistics. She is an author, an
   international keynote speaker, and a real-world practitioner focusing on data
   analysis and machine learning. Julia loves text analysis, making beautiful
-  charts, and communicating about technical topics with diverse audiences.
-
+  charts, and communicating about technical topics with diverse audiences.<br><br>
 
   Natural language that we as speakers and writers use must be dramatically
   transformed to new representations for analysis, whether we are just starting
