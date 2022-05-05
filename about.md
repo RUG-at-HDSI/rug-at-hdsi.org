@@ -40,7 +40,7 @@ collaboration, and connecting with others interested in R.
 
 <a href="https://nswartwo.wixsite.com/website">
 <img 
-  src="https://static.wixstatic.com/media/29c8a8_b8b50062f51c4ab19f24eb34511a0de2~mv2.jpg/v1/fill/w_200,h_200,al_c,q_80,usm_0.66_1.00_0.01/SwartwoodHeadshot_JPG.webp" 
+  src="/assets/images/nicole_portrait.jpg" 
   alt="Avatar" 
   style="border-radius: 50%; max-width: 175px; max-height: 175px;"
   >
