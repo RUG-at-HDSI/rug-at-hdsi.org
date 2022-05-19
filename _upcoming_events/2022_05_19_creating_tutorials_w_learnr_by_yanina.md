@@ -1,6 +1,6 @@
 ---
 title: "Creating Interactive Tutorials with {learnr} by Yanina Bellini Saibene"
-event_date: "March 10, 2022"
+event_date: "March 19, 2022"
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_05_19_InteractiveTutorialsWithLearnr.jpg"
