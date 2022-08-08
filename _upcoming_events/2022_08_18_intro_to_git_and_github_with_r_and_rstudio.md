@@ -16,15 +16,16 @@ blurb: |
     professional portfolio of your software and programming work. GitHub is one of
     the most relevant technologies for any programmer, so we welcome you to join us
     to learn how you can leverage git and GitHub for your R programming adventures!
+registration_link: https://harvard.zoom.us/meeting/register/tJMtfuCopjMqHdNoH0mfovM4llfeB4SA4kCL
 ---
 
 #### Join us August 18th at 5PM Eastern Time!
 
-<img src="{{ page.poster_png }}">
+<a href="{{ page.registration_link }}"><img src="{{ page.poster_png }}"></a>
 
 <p>{{ page.blurb }}</p>
 
 Registration Link: <br>
-<a href="https://harvard.zoom.us/meeting/register/tJMtfuCopjMqHdNoH0mfovM4llfeB4SA4kCL">
-https://harvard.zoom.us/meeting/register/tJMtfuCopjMqHdNoH0mfovM4llfeB4SA4kCL
+<a href="{{ page.registration_link }}">
+{{ page.registration_link }}
 </a>
