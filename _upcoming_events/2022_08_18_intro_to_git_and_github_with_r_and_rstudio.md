@@ -24,5 +24,7 @@ blurb: |
 
 <p>{{ page.blurb }}</p>
 
-Registration Link: 
+Registration Link: <br>
+<a href="https://harvard.zoom.us/meeting/register/tJMtfuCopjMqHdNoH0mfovM4llfeB4SA4kCL">
 https://harvard.zoom.us/meeting/register/tJMtfuCopjMqHdNoH0mfovM4llfeB4SA4kCL
+</a>
