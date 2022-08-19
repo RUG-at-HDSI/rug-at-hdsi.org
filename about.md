@@ -15,28 +15,6 @@ collaboration, and connecting with others interested in R.
 <div class='feature__item'>
 <div class='archive__item'>
 <div class='archive__item-teaser'>
-<a href="https://www.nzgwynn.com/">
-<img 
-  src="/assets/images/gwynn_portrait.jpg" 
-  alt="Avatar" 
-  style="border-radius: 50%; max-width: 175px; max-height: 175px;"
-  >
-</a>
-</div>
-<div class='archive__item-body'>
-<a style='text-decoration: none; color: #3d4144'
-  href="https://www.nzgwynn.com/">
-<h3 class='archive__item-title'>gwynn sturdevant</h3>
-</a>
-<div class='archive__item-excerpt'>
-<p>Hi, I'm gwynn!</p>
-</div>
-</div>
-</div>
-</div>
-<div class='feature__item'>
-<div class='archive__item'>
-<div class='archive__item-teaser'>
 
 <a href="https://nswartwo.wixsite.com/website">
 <img 
