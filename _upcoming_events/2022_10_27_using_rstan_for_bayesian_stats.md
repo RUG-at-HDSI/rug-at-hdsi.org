@@ -3,13 +3,13 @@ title: "Using RStan for Bayesian Statistics"
 event_date: "October 27th, 2022"
 time: "5-6 PM ET"
 layout: single
-poster_png: "/assets/images/2022_10_27_stan.png"
+poster_png: "/assets/images/2022_10_27_RStan.png"
 blurb: |
   Join us to learn about how you can use RStan to perform Bayesian statistics
   in R! This talk will provide an introduction to what Bayesian statistics and
-  RStan are and how you can get started using them.  Fayette will introduce how
-  to write a Stan program and describe the workflow using Stan as well as go
-  over some example Stan models. Finally, we'll go over some common
+  RStan are and how you can get started using them.  Fayette Klaassen will
+  introduce how to write a Stan program and describe the workflow using Stan as
+  well as go over some example Stan models. Finally, we'll go over some common
   troubleshooting tips and examples in practice. 
 registration_link: https://harvard.zoom.us/meeting/register/tJErdOmsqT4uH9IkoWLuuCqGA8sKdvutg4Yd 
 ---
