@@ -17,6 +17,11 @@ registration_link: https://harvard.zoom.us/meeting/register/tJYrd-muqT0rGNwxrxKq
 
 <p>{{ page.blurb }}</p>
 
+Registration Link: <br>
+<a href="{{ page.registration_link }}">
+{{ page.registration_link }}
+</a>
+
 ## Bio 
 
 Chanin Nantasenamat, PhD works full-time as a Senior Developer Advocate for
