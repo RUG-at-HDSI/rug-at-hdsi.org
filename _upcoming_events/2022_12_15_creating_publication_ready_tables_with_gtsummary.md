@@ -1,9 +1,9 @@
 ---
 title: "Creating Publication-Ready Summary Tables with {gtsummary}"
-event_date: "December 8th, 2022"
+event_date: "December 15th, 2022"
 time: "5-6 PM ET"
 layout: single
-poster_png: "/assets/images/2022_12_08_Emily_gtsummary_Talk.png"
+poster_png: "/assets/images/2022_12_15_Emily_gtsummary_Talk.png"
 blurb: |
   This talk will introduce the {gtsummary} R package, and will review details
   of some of the functionality it provides for creating publication quality
