@@ -1,9 +1,9 @@
 ---
 title: "Towards the Development of Bioinformatics Tools"
-event_date: "December 15th, 2022"
+event_date: "January 12th, 2023"
 time: "11 AM - 12 PM ET"
 layout: single
-poster_png: "/assets/images/2022_12_15_Chanin_BioInfo_Shiny_Talk.png"
+poster_png: "/assets/images/2023_01_12_Chanin_BioInfo_Shiny_Talk.png"
 blurb: |
     Join us as Chanin describes the thought process that goes behind the
     compilation and curation of bioactivity datasets, building machine
