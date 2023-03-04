@@ -1,6 +1,7 @@
 ---
 title: "Introduction to ggplot2"
 event_date: "December 2nd, 2021"
+date: 2021-12-2
 time: "5-6 PM ET"
 layout: single
 poster_png: ""

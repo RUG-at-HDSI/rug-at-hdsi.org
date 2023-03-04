@@ -1,6 +1,7 @@
 ---
 title: "Level Up Your Plots"
 event_date: "September 29th, 2022"
+date: 2022-09-29
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_09_29_level_up_your_plots.png"

@@ -1,6 +1,7 @@
 ---
 title: "R you my Valentine?"
 event_date: "February 17th, 2022"
+date: 2022-02-17
 time: "5-6 PM Eastern Time"
 layout: single
 poster_png: "https://github.com/RUG-at-HDSI/meeting_materials/raw/main/2022_02_17/2022_02_17_R_You_My_Valentine.png"

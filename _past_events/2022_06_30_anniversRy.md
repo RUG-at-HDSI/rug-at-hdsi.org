@@ -1,6 +1,7 @@
 ---
 title: "Celebrating our 1 Year AnniversRy"
 event_date: "June 30, 2022"
+date: 2022-06-30
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_06_30_anniversRy.jpg"

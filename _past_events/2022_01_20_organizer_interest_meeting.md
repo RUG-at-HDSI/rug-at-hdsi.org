@@ -1,6 +1,7 @@
 ---
 title: "Organizer Interest Meeting"
 event_date: "January 20th, 2022"
+date: 2022-01-20
 time: "5-6 PM ET"
 layout: single
 poster_png: "https://github.com/RUG-at-HDSI/meeting_materials/blob/main/2022_02_20/RUG%20Organizer%20Interest%20Flyer.png?raw=true"

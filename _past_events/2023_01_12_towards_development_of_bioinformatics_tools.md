@@ -1,6 +1,7 @@
 ---
 title: "Towards the Development of Bioinformatics Tools"
 event_date: "January 12th, 2023"
+date: 2023-01-12
 time: "11 AM - 12 PM ET"
 layout: single
 poster_png: "/assets/images/2023_01_12_Chanin_BioInfo_Shiny_Talk.png"

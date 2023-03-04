@@ -1,6 +1,7 @@
 ---
 title: "Intro to  &#123;dplyr&#125; and USAFacts COVID-19 Data"
 event_date: "October 21st, 2021"
+date: 2021-10-21
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2021_10_21_dplyr_talk.png"

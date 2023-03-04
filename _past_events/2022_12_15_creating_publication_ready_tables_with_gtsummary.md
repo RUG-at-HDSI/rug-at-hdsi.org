@@ -1,6 +1,7 @@
 ---
 title: "Creating Publication-Ready Summary Tables with {gtsummary}"
 event_date: "December 15th, 2022"
+date: 2022-12-15
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_12_15_Emily_gtsummary_Talk.png"

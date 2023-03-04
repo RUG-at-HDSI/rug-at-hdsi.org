@@ -1,6 +1,7 @@
 ---
 title: "Towards the Next Generation of Shiny UI"
 event_date: "March 16th, 2023"
+date: 2023-03-16
 time: "5 PM - 6 PM ET"
 layout: single
 poster_png: ""

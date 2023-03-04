@@ -1,6 +1,7 @@
 ---
 title: "&#123;plumber&#125;: An API Generator for R"
 event_date: "August 5th and August 12th, 2021"
+date: 2021-08-05
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2021_8_5_plumber_talk.jpg"

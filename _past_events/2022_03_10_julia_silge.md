@@ -1,6 +1,7 @@
 ---
 title: "Creating features for machine learning from text"
 event_date: "March 10, 2022"
+date: 2022-03-10
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_03_10_julia_silge.png"

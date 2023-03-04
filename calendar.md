@@ -24,7 +24,7 @@ style="margin-top: 18px; margin-bottom: 18px;">
 
 # Past Events
 
-{% assign sorted = site.past_events | sort: 'event_date' | reverse %}
+{% assign sorted = site.past_events | sort: 'date' | reverse %}
 {% for event in sorted %}
 <h5> 
 <a href="{{ event.url }}.html">

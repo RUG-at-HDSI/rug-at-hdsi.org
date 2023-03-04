@@ -1,6 +1,7 @@
 ---
 title: "Using RStan for Bayesian Statistics"
 event_date: "October 27th, 2022"
+date: 2022-10-27
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_10_27_RStan.png"

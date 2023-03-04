@@ -1,6 +1,7 @@
 ---
 title: "Cooking Your Data with Recipes"
 event_date: "November 18th, 2021"
+date: 2021-11-18
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2021_11_18_Kuhn_Recipes.png"

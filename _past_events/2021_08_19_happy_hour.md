@@ -1,6 +1,7 @@
 ---
 title: "R Trivia & Happy Hour"
 event_date: "August 19th, 2021"
+date: 2021-08-19
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2021_8_19_happy_hour.jpg"

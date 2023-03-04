@@ -1,6 +1,7 @@
 ---
 title: "Intro to Git and GitHub with R and RStudio"
 event_date: "August 18th, 2022"
+date: 2022-08-18
 time: "5-6 PM ET"
 layout: single
 poster_png: "/assets/images/2022_08_18_intro_to_git_and_github_with_r_and_rstudio.png"
