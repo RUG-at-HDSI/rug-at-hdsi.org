@@ -12,7 +12,7 @@ blurb: |
 registration_link:  https://harvard.zoom.us/meeting/register/tJMtc-2tqj4iHdXy8u3Kd0f82viGy7W5MuEm 
 ---
 
-#### Join us {{ page.event_date }} at 11AM Eastern Time!
+#### Join us {{ page.event_date }} at {{ page.time }} Eastern Time!
 
 {% if page.poster_png %} 
 <a href="{{ page.registration_link }}"><img src="{{ page.poster_png }}"></a>
