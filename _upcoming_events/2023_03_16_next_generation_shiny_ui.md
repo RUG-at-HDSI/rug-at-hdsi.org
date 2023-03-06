@@ -3,7 +3,7 @@ title: "Towards the Next Generation of Shiny UI"
 event_date: "March 16th, 2023"
 time: "5 PM - 6 PM ET"
 layout: single
-poster_png: ""
+poster_png: "/assets/images/2023_03_16_carson_sievert.jpeg"
 blurb: |
   Shiny, the R package for creating interactive web graphics, recently celebrated its 10th birthday. Since then, Shiny has grown tremendously in many areas (e.g., performance, functionality, extensions, etc); however, a "hello world" Shiny app still looks like it did 10 years ago. This is mostly because Shiny goes to great lengths to ensure backwards compatibility; and as a result, default Shiny UI will likely continue to be based on Bootstrap 3 (a CSS styling framework released in 2010). However, thanks to the new bslib R package, it is now easy to opt-into a modern Bootstrap 5 foundation that "just works" with Shiny, R Markdown, flexdashboard, pkgdown, bookdown, and more.  <br><br>
 
