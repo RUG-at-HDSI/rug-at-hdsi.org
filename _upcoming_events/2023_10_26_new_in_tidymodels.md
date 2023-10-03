@@ -10,7 +10,7 @@ registration_link:
     https://harvard.zoom.us/meeting/register/tJwsd--rrj8oHtUlg0MF7lmuPth0IUR2sugh
 ---
 
-#### Join us {{ page.event_date }} at 11am Eastern Time!
+#### Join us {{ page.event_date }} at 5pm Eastern Time!
 
 <a href="{{ page.registration_link }}"><img src="{{ page.poster_png }}"></a>
 
