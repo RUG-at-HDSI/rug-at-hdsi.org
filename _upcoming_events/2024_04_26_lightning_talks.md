@@ -1,9 +1,9 @@
 ---
-title: "Lightning Talks!"
+title: "Lightning Talks with HKS Data+Donuts!"
 event_date: "Friday April 26th, 2024"
 time: "2-3 PM Eastern Time"
 layout: single
-poster_png: "/assets/images/2024_04_26_DataAndDonuts_LightningTalks.png"
+poster_png: "/assets/images/2024_04_26_DataAndDonuts_LightningTalks.jpeg"
 blurb: |
   Join us for lightning talks!
 registration_link: |
