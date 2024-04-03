@@ -3,7 +3,7 @@ title: "Lightning Talks with HKS Data+Donuts!"
 event_date: "Friday April 26th, 2024"
 time: "2-3 PM Eastern Time"
 layout: single
-poster_png: "/assets/images/2024_04_26_DataAndDonuts_LightningTalks.jpeg"
+poster_png: "/assets/images/2024_04_26_DataAndDonuts_LightningTalks.png"
 blurb: |
   Join us for lightning talks!  Give a lightning talk and be a candidate to win a $50 Amazon gift card! 
 
@@ -24,7 +24,7 @@ speaker_form_link: |
 
 We ask that each lightning talk be limited to 5-8 minutes. The use of slides is strongly encouraged, but should be used sparingly to support the topic, rather than the focus of the lightning talk – think:  a cool plot that supports your topic or a critical code chunk that you’d like to highlight. We also welcome our speakers to do a live demo in R if that is their preferred format, but will request that slides with static code are provided prior to the event in case of technology failures and for distribution after the event. **All slides will be requested to be submitted to <datascience_rug@harvard.edu> by 11:59 PM EST on Wednesday, April 24th, 2024 (Two days in advance).**
 
-If you're interested in attending, join us in-person on the Harvard Kennedy School campus in Wexner 102, Friday April 26th, 2-3pm and register here: 
+If you're interested in attending, join us in-person on the Harvard Kennedy School campus in Wexner 434B, Friday April 26th, 2-3pm and register here: 
 **[Sign-up to Join In-Person or Online]({{ page.registration_link }})**
 
 If you'd like to speak, please sign up here: 
