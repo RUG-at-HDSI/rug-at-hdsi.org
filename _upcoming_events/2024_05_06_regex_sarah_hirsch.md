@@ -1,5 +1,5 @@
 ---
-title: "Regex in R for Efficient Programming"
+title: "The Magic of Regular Expressions"
 event_date: "Thursday, June 6th, 2024"
 time: "4-5 PM Eastern Time"
 layout: single
@@ -17,4 +17,10 @@ speaker_blurb: |
 
 {{ page.blurb }}
 
+Want to learn more about how to use regular expressions in R?  Come learn with
+us how to use regular expressions to parse and clean text data. 
+
 {{ page.speaker_blurb}}
+
+Register on Zoom here: 
+<a href="{{ page.registration_link }}">{{ page.registration_link }}</a>
