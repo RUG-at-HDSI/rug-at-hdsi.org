@@ -4,8 +4,8 @@ event_date: "January 20th, 2022"
 date: 2022-01-20
 time: "5-6 PM ET"
 layout: single
-poster_png: "/assets/images/2022_02_17_R_You_My_Valentine.png"
-poster_pdf: "/assets/images/2022_02_17_R_You_My_Valentine.pdf"
+poster_png: "/assets/images/2022_01_20_RUG Organizer Interest Flyer.png"
+poster_pdf: "/assets/images/2022_01_20_RUG Organizer Interest Flyer.pdf"
 blurb: |
   Are you interested in helping us make our R User Group better? Join our
   Organizer Interest Meeting!  We will have free time to discuss what you'd
