@@ -1,7 +1,7 @@
 ---
 title: "The Magic of Regular Expressions"
 event_date: "Thursday, June 6th, 2024"
-time: "4-5 PM Eastern Time"
+time: "5-6 PM Eastern Time"
 layout: single
 poster_png: "/assets/images/2024_05_06_RUG_RegEx_Hirsch.png"
 blurb: |
