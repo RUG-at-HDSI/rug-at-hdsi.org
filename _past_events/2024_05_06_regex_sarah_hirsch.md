@@ -5,6 +5,7 @@ time: "5-6 PM Eastern Time"
 layout: single
 poster_png: "/assets/images/2024_05_06_RUG_RegEx_Hirsch.png"
 blurb: |
+  Have you ever wondered about coding shorthand that uses special symbols like ^, $, +, and *? Does it seem too strange and impenetrable to understand, much less use? Start chipping away at that iceberg and join us to learn more about regular expressions, an efficient and powerful way to parse and clean text data.
 registration_link: |
     https://harvard.zoom.us/meeting/register/tJIofuutpzsuGdQ2fwAl9RThV2jhvj4Hg5eP
 speaker_blurb: |
