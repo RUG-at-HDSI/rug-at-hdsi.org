@@ -1,6 +1,6 @@
 ---
 title: "Lightning Talks! with HKS Data + Donuts"
-event_date: "Friday, November 11th, 2024"
+event_date: "Friday, November 15th, 2024"
 time: "1-2 PM Eastern Time"
 layout: single
 poster_png: ""
