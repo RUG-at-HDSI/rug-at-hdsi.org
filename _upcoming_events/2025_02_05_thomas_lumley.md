@@ -28,7 +28,13 @@ Register here for the online webinar:
 <a href="{{ page.registration_link }}">{{ page.registration_link }}</a>
 
 We will also be in-person on the Harvard T.H. Chan School of Public Health campus 
-in Kresge G2. Please come by to join in-person if you are a Harvard ID holder!
+in Kresge G2. 
+
+Register for the in-person event in Kresge G2 here: 
+<https://harvard.az1.qualtrics.com/jfe/form/SV_elJq0MLS64DkGoK>
+
+At this time the in-person event is only open to Harvard ID holders,
+but please register if you have an HUID and would like to join! 
 
 ## Talk Description
 
