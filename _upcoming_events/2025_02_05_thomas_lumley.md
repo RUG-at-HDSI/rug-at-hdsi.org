@@ -3,7 +3,7 @@ title: "The survey Package for R: What, How, and Why?"
 event_date: "Wednesday, February 5th"
 time: "3:45-5:15 PM Eastern Time"
 layout: single
-poster_png: ""
+poster_png: "/assets/images/2025_02_05_ThomasLumleyFlyer.png"
 blurb: |
     The survey package for R was developed to allow routine statistical
     analysis to account for complex sampling designs, and to provide a platform
@@ -18,11 +18,10 @@ speaker_blurb: |
 ---
 
 #### Join us on {{ page.event_date }} at {{ page.time }}!
-<!-- 
+
 <a href="{{ page.registration_link }}">
 <img src="{{ page.poster_png }}">
 </a>
--->
 
 Register here for the online webinar: 
 <a href="{{ page.registration_link }}">{{ page.registration_link }}</a>
