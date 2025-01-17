@@ -35,7 +35,9 @@ Register for the in-person event in Kresge G2 here:
 At this time the in-person event is only open to Harvard ID holders,
 but please register if you have an HUID and would like to join! 
 
-## Talk Description
+Please note this webinar will be recorded and posted to [our YouTube channel](https://www.youtube.com/c/RUserGroupatHarvardDataScienceInitiative/featured)
+
+## Talk Description from Dr. Lumley:
 
 {{ page.blurb }}
 
